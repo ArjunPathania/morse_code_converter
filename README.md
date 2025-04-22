@@ -13,7 +13,7 @@ This is a simple Python project that takes input text and converts it into **Mor
 - 🔤 Converts alphabets, digits, and a few special characters into Morse code
 - 🔊 Plays beep sounds corresponding to Morse symbols
 - 🧼 Ignores unsupported characters gracefully
-- 💬 Command-line interface for easy interaction
+- 💬 GUI interface for easy interaction
 
 ---
 
@@ -22,7 +22,7 @@ This is a simple Python project that takes input text and converts it into **Mor
 1. Clone or download this repo to your local machine.
 2. Open a terminal and navigate to the project folder:
    ```bash
-   cd ~/Python100/Day_82/
+   cd ~/morse_code_generator
    ```
 3. Run the script:
    ```bash
@@ -35,7 +35,7 @@ This is a simple Python project that takes input text and converts it into **Mor
 ## 📁 File Structure
 
 ```
-📂 Day_82/
+📂 morse_code_generator/
 ├── textToMorseCode.py   # Main script
 ├── long.mp3             # Sound file used for long Morse beeps
 ├── short.mp3             # Sound file used for short Morse beeps
